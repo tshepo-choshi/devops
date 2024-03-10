@@ -16,6 +16,6 @@ public class DemoApplication {
 
 	@GetMapping("/devops/")
 	public String devOps(){
-		return "Welcome to devops for developers: ";
+		return "Welcome to devops for developers (test email): ";
 	}
 }
